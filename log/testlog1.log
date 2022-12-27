@@ -1,0 +1,467 @@
+2022-12-04 20:42:40,974 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-04 20:42:51,577 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-04 20:42:51,695 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-04 20:42:51,761 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-04 20:42:51,838 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-04 20:43:14,201 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-04 20:43:16,301 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-04 20:43:21,409 [main] INFO ServMe Automation Staging - Added first name
+2022-12-04 20:43:22,588 [main] INFO ServMe Automation Staging - Added last name
+2022-12-04 20:43:33,143 [main] INFO ServMe Automation Staging - Added std code
+2022-12-04 20:43:36,271 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-04 20:43:36,392 [main] INFO ServMe Automation Staging - Added email
+2022-12-04 20:43:36,454 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-04 20:43:46,698 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-04 20:43:46,863 [main] INFO ServMe Automation Staging - Note value added
+2022-12-04 20:43:46,934 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-04 20:43:50,006 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-04 20:43:52,085 [main] INFO ServMe Automation Staging - Time of the reservation added
+2022-12-04 20:43:55,146 [main] INFO ServMe Automation Staging - charge of the reservation added disabled
+2022-12-04 20:43:55,212 [main] INFO ServMe Automation Staging - Reservation added
+2022-12-11 16:27:21,849 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 16:27:29,659 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 16:27:29,855 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 16:27:29,962 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 16:27:30,122 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 16:27:52,675 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 16:27:54,828 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 16:27:59,980 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 16:28:01,289 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 16:28:12,132 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 16:28:15,307 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 16:28:15,496 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 16:28:15,585 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 16:28:25,954 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 16:28:26,231 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 16:29:41,933 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 16:29:47,879 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 16:29:48,075 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 16:29:48,234 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 16:29:48,330 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 16:30:10,874 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 16:30:13,015 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 16:30:18,189 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 16:30:19,482 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 16:30:30,282 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 16:30:33,507 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 16:30:33,688 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 16:30:33,778 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 16:30:44,158 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 16:30:44,466 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 16:30:44,565 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 16:30:47,682 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 16:42:27,599 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 16:42:32,066 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 16:42:32,236 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 16:42:32,329 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 16:42:32,525 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 16:42:55,078 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 16:42:57,227 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 16:43:02,385 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 16:43:03,804 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 16:43:14,672 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 16:43:17,861 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 16:43:18,037 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 16:43:18,127 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 16:43:28,467 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 16:43:28,722 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 16:43:28,825 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 16:43:31,934 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 16:45:36,355 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 16:45:44,686 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 16:45:44,917 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 16:45:45,063 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 16:45:45,240 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 16:46:07,769 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 16:46:09,918 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 16:46:15,087 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 16:46:16,495 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 16:46:27,432 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 16:46:30,641 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 16:46:30,827 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 16:46:30,917 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 16:46:41,266 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 16:46:41,518 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 16:46:41,619 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 16:46:44,733 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 16:50:56,815 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 16:51:03,911 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 16:51:04,107 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 16:51:04,199 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 16:51:04,285 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 16:51:26,817 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 16:51:28,958 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 16:51:34,119 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 16:51:35,413 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 16:51:46,296 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 16:51:49,476 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 16:51:49,657 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 16:51:49,749 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 16:52:00,136 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 16:52:00,399 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 16:52:00,503 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 16:52:03,605 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 17:02:02,324 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 17:02:10,234 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 17:02:10,452 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 17:02:10,557 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 17:02:10,714 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 17:02:33,266 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 17:02:35,424 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 17:02:40,574 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 17:02:41,846 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 17:02:52,732 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 17:02:55,917 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 17:02:56,100 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 17:02:56,189 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 17:03:06,528 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 17:03:06,819 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 17:03:06,941 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 17:03:10,052 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 17:05:19,036 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 17:05:26,510 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 17:05:26,706 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 17:05:26,837 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 17:05:27,005 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 17:05:49,560 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 17:05:51,758 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 17:05:56,907 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 17:05:58,157 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 17:06:09,039 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 17:06:12,209 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 17:06:12,382 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 17:06:12,473 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 17:06:22,860 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 17:06:23,091 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 17:06:23,212 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 17:09:13,900 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 17:14:03,335 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 17:14:10,345 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 17:14:10,587 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 17:14:10,690 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 17:14:10,803 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 17:14:33,342 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 17:14:35,491 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 17:14:40,637 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 17:14:41,917 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 17:14:52,728 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 17:14:55,911 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 17:14:56,086 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 17:14:56,175 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 17:15:06,528 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 17:15:06,786 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 17:15:06,890 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 17:15:28,438 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 17:45:19,587 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 17:45:27,869 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 17:45:28,120 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 17:45:28,234 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 17:45:28,369 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 17:45:51,016 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 17:45:53,188 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 17:45:58,376 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 17:45:59,738 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 17:46:10,851 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 17:46:14,083 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 17:46:14,290 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 17:46:14,397 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 17:46:24,808 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 17:46:25,138 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 17:46:25,265 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 17:46:28,406 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 17:50:22,664 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 17:50:32,899 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 17:50:33,150 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 17:50:33,276 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 17:50:33,464 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 17:50:56,338 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 17:50:58,808 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 17:51:04,003 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 17:51:05,342 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 17:51:16,497 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 17:51:19,766 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 17:51:20,020 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 17:51:20,150 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 17:51:30,673 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 17:51:31,016 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 17:51:31,152 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 17:51:34,274 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 18:01:03,387 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 18:01:20,663 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 18:01:20,812 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 18:01:20,880 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 18:01:20,969 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 18:01:43,331 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 18:01:45,446 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 18:01:50,543 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 18:01:51,703 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 18:02:02,266 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 18:02:05,398 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 18:02:05,523 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 18:02:05,587 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 18:02:15,851 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 18:02:16,024 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 18:02:16,108 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 18:02:19,286 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 18:30:56,257 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 18:31:11,472 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 18:31:11,628 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 18:31:11,704 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 18:31:11,789 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 18:31:34,148 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 18:31:36,252 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 18:31:41,358 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 18:31:42,521 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 18:31:53,109 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 18:31:56,230 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 18:31:56,357 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 18:31:56,442 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 18:32:06,693 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 18:32:06,861 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 18:32:06,936 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 18:32:10,020 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 18:47:21,245 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 18:47:34,483 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 18:47:34,597 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 18:47:34,662 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 18:47:34,744 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 18:47:57,123 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 18:47:59,223 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 18:48:04,325 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 18:48:05,519 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 18:48:16,092 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 18:48:19,202 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 18:48:19,328 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 18:48:19,392 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 18:48:29,656 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 18:48:29,856 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 18:48:29,925 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 18:48:32,996 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 18:50:42,546 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 18:50:46,913 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 18:50:47,028 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 18:50:47,097 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 18:50:47,154 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 18:51:09,517 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 18:51:11,631 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 18:51:16,742 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 18:51:18,029 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 18:51:28,623 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 18:51:31,757 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 18:51:31,889 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 18:51:31,954 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 18:51:42,214 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 18:51:42,440 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 18:51:42,515 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 18:51:45,603 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 19:13:50,196 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 19:13:54,925 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 19:13:55,037 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 19:13:55,131 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 19:13:55,190 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 19:14:17,551 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 19:14:19,661 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 19:14:24,769 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 19:14:25,935 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 19:14:36,488 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 19:14:39,606 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 19:14:39,735 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 19:14:39,799 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 19:14:50,071 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 19:14:50,264 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 19:14:50,332 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 19:14:53,420 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 19:23:32,036 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 19:23:36,837 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 19:23:36,954 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 19:23:37,048 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 19:23:37,122 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 19:23:59,499 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 19:24:01,601 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 19:24:06,709 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 19:24:07,881 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 19:24:18,469 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 19:24:21,588 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 19:24:21,715 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 19:24:21,782 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 19:24:32,053 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 19:24:32,225 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 19:24:32,318 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 19:24:35,394 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-11 22:05:29,990 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-11 22:05:36,292 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-11 22:05:36,465 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-11 22:05:36,561 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-11 22:05:36,660 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-11 22:05:59,170 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-11 22:06:01,328 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-11 22:06:06,478 [main] INFO ServMe Automation Staging - Added first name
+2022-12-11 22:06:07,733 [main] INFO ServMe Automation Staging - Added last name
+2022-12-11 22:06:18,643 [main] INFO ServMe Automation Staging - Added std code
+2022-12-11 22:06:21,830 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-11 22:06:22,010 [main] INFO ServMe Automation Staging - Added email
+2022-12-11 22:06:22,095 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-11 22:06:32,486 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-11 22:06:32,750 [main] INFO ServMe Automation Staging - Note value added
+2022-12-11 22:06:32,827 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-11 22:06:35,937 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 16:28:04,390 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 16:28:12,814 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 16:28:13,003 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 16:28:13,107 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 16:28:13,217 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 16:28:35,715 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 16:28:37,880 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 16:28:43,051 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 16:28:44,333 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 16:28:55,292 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 16:28:58,514 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 16:28:58,725 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 16:28:58,827 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 16:29:09,270 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 16:29:09,595 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 16:29:09,697 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 16:29:12,811 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 16:37:44,534 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 16:38:13,879 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 16:38:14,097 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 16:38:14,207 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 16:38:14,369 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 16:38:36,922 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 16:38:39,077 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 16:38:44,239 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 16:38:45,537 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 16:38:56,461 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 16:38:59,662 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 16:38:59,874 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 16:38:59,975 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 16:39:10,370 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 16:39:10,769 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 16:39:10,873 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 16:39:13,975 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 16:40:43,545 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 16:41:11,577 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 16:41:11,775 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 16:41:11,956 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 16:41:12,064 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 16:41:34,635 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 16:41:36,798 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 16:41:41,980 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 16:41:43,286 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 16:41:54,252 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 16:41:57,471 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 16:41:57,685 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 16:41:57,792 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 16:42:08,236 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 16:42:08,542 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 16:42:08,644 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 16:42:11,770 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 19:01:45,773 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 19:01:56,031 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 19:01:56,139 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 19:01:56,199 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 19:01:56,268 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 19:02:18,623 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 19:02:20,725 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 19:02:25,842 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 19:02:27,017 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 19:02:37,590 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 19:02:40,705 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 19:02:40,829 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 19:02:40,896 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 19:02:51,148 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 19:02:51,340 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 19:02:51,396 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 19:02:54,465 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 20:13:05,138 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 20:13:09,040 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 20:13:09,164 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 20:13:09,272 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 20:13:09,343 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 20:13:31,735 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 20:13:33,843 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 20:13:38,952 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 20:13:40,126 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 20:13:50,682 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 20:13:53,794 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 20:13:53,918 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 20:13:53,984 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 20:14:04,250 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 20:14:04,416 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 20:14:04,472 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 20:14:07,551 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 20:18:24,287 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 20:18:27,595 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 20:18:27,711 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 20:18:27,773 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 20:18:27,912 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 20:18:50,295 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 20:18:52,402 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 20:18:57,502 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 20:18:58,669 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 20:19:09,238 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 20:19:12,354 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 20:19:12,474 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 20:19:12,537 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 20:19:22,802 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 20:19:22,981 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 20:19:23,035 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 20:19:26,121 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 20:21:53,208 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 20:21:56,637 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 20:21:56,740 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 20:21:56,806 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 20:21:56,940 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 20:22:19,475 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 20:22:21,656 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 20:22:26,826 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 20:22:28,146 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 20:22:39,053 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 20:22:42,244 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 20:22:42,456 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 20:22:42,559 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 20:22:52,973 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 20:22:53,440 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 20:22:53,549 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 20:23:13,829 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 21:20:45,267 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 21:20:52,273 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 21:20:52,527 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 21:20:52,708 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 21:20:52,819 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 21:21:15,407 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 21:21:17,589 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 21:21:22,757 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 21:21:24,055 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 21:21:35,020 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 21:21:38,205 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 21:21:38,416 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 21:21:38,517 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 21:21:48,938 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 21:21:49,318 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 21:21:49,410 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 21:21:52,545 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 21:21:57,725 [main] INFO ServMe Automation Staging - Time of the reservation added
+2022-12-26 21:22:00,839 [main] INFO ServMe Automation Staging - charge of the reservation added disabled
+2022-12-26 21:22:00,950 [main] INFO ServMe Automation Staging - Reservation added
+2022-12-26 21:37:29,286 [main] INFO ServMe Automation Staging - Browser opened and login to servme completed
+2022-12-26 21:37:40,501 [main] INFO ServMe Automation Staging - ServMe url is opened
+2022-12-26 21:37:40,729 [main] INFO ServMe Automation Staging - Entered ServMe username
+2022-12-26 21:37:40,903 [main] INFO ServMe Automation Staging - Entered ServMe password
+2022-12-26 21:37:41,005 [main] INFO ServMe Automation Staging - Clicked submit button
+2022-12-26 21:38:03,491 [main] INFO ServMe Automation Staging - Reservation window opened
+2022-12-26 21:38:05,657 [main] INFO ServMe Automation Staging - Clicked Add new guest
+2022-12-26 21:38:10,831 [main] INFO ServMe Automation Staging - Added first name
+2022-12-26 21:38:12,122 [main] INFO ServMe Automation Staging - Added last name
+2022-12-26 21:38:23,041 [main] INFO ServMe Automation Staging - Added std code
+2022-12-26 21:38:26,258 [main] INFO ServMe Automation Staging - Added phone number
+2022-12-26 21:38:26,468 [main] INFO ServMe Automation Staging - Added email
+2022-12-26 21:38:26,570 [main] INFO ServMe Automation Staging - Clicked Create
+2022-12-26 21:38:37,029 [main] INFO ServMe Automation Staging - Reservation name added
+2022-12-26 21:38:37,340 [main] INFO ServMe Automation Staging - Note value added
+2022-12-26 21:38:37,428 [main] INFO ServMe Automation Staging - Clicked on source
+2022-12-26 21:38:37,644 [main] INFO ServMe Automation Staging - Date of the reservation added
+2022-12-26 21:38:40,792 [main] INFO ServMe Automation Staging - Party size of the reservation added
+2022-12-26 21:38:45,970 [main] INFO ServMe Automation Staging - Time of the reservation added
+2022-12-26 21:38:49,087 [main] INFO ServMe Automation Staging - charge of the reservation added disabled
+2022-12-26 21:38:49,221 [main] INFO ServMe Automation Staging - Reservation added
